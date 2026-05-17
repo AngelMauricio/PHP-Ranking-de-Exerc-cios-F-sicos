@@ -1,4 +1,4 @@
-# Tecnofit Challenge - Ranking API
+# Exercícios Físicos - Ranking API
 
 Esta é uma API RESTful desenvolvida em PHP 8.3 (sem frameworks) para gerenciar e visualizar rankings de performance em movimentos de Crossfit. O projeto utiliza Docker para garantir que o ambiente de execução seja idêntico em qualquer máquina.
 
